@@ -20,10 +20,10 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             true
-show_related_posts:   true
+animated:             false
+show_related_posts:   false
 show_post_footers:    true
-show_social_icons:    true
+show_social_icons:    false
 ajaxify_contact_form: false
 enable_mathjax: true
 extended_fonts: true
