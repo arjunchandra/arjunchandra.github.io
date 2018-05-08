@@ -4,7 +4,7 @@ email:       arjun.chandra@gmail.com
 author:      Arjun Chandra
 description: ""
 baseurl:     ""
-url:         ""
+url:         "https://arjunchandra.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -83,8 +83,8 @@ share_hackernews: true
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'Recent'
+    older: 'Past'
   share_buttons:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
