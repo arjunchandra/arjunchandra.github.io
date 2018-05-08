@@ -6,7 +6,6 @@
     {% assign page = site.pages | where: "path", path | first %}
     
     {% if page.title %}
-        <img src="{{ site.baseurl }}/images/ac.jpg" alt="Arjun Chandra" class="avatar" />
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
 
