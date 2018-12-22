@@ -21,5 +21,3 @@ One aim of this lecture is to spread awareness of current advances and some of t
 As is perhaps obvious, exposing fresh minds to technical challenges is one way to make some of them curious about advancing the field. When these minds get to work, the field invariably matures, so does its applicability. It has indeed been a great pleasure for me to also get to work with some of these minds in the recent past, and I hope to keep learning from them in the foreseeable future!
 
 A shout out to [BRAIN NTNU](https://www.brainntnu.no/) for taking care of the local arrangements.
-
-{: .text-justify}

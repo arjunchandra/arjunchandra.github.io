@@ -16,5 +16,3 @@ This was followed by an exciting stint at [Studix](https://www.studix.com/), a s
 The AI researcher in me drove me to [Telenor Research](https://www.telenor.com/innovation/research/), where I now work as a Senior Research Scientist, with a responsibility of both applying and advancing AI methods, former to empower Telenor, and the latter to futher empower society. Some of my activities involve working with academic colleagues and students at the [Norwegian Open AI Lab](https://www.ntnu.edu/web/ailab/). On occassion, I do guest lectures on AI topics, specifically *reinforcement learning*, which is the focus of most of my current research.
 
 Additionally, I advise a handful of startups based in [Oslo Science Park](https://www.forskningsparken.no/om-oss/about-oslo-science-park/). 
-
-{: .text-justify}
