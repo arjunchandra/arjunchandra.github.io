@@ -10,9 +10,11 @@ Just like [last year](https://www.ntnu.edu/web/ailab/dl_tutorial), I had the ple
 
 The lecture was open to the public and streamed live. It was mostly attended by students taking courses offered by [Prof. Keith Downing](https://www.ntnu.no/ansatte/keithd). It was also wonderful to see some of my immediate colleagues from Telenor Research and academic friends from NTNU. Some of the material I covered will likely be stale by the time you reach here. Nevertheless, below is the recording.
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OTWGrugHRsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Slides are available [here](https://drive.google.com/file/d/1mDaDiMiq1ZTiAsc6An7FeDNO8tWQYjcC/view)
+
+Slides are available [here](https://drive.google.com/file/d/1mDaDiMiq1ZTiAsc6An7FeDNO8tWQYjcC/view).
 
 The lecture attempts to draw a broad and intuitive picture of the field as it stands. The historical development of the field is examined, building up to current frontiers.
 
