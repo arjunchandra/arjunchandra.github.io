@@ -22,3 +22,4 @@ As is perhaps obvious, exposing fresh minds to technical challenges is one way t
 
 A shout out to [BRAIN NTNU](https://www.brainntnu.no/) for taking care of the local arrangements.
 
+{: .text-justify}
