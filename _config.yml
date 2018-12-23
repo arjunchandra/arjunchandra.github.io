@@ -1,6 +1,6 @@
 # Site settings
 title:       Arjun Chandra's Log
-email:       arjun.chandra@gmail.com
+email:       arjun.chandra@telenor.com
 author:      Arjun Chandra
 description: ""
 baseurl:     ""
@@ -59,7 +59,7 @@ twitter_username: boelger
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: arjun-chandra-6a35b46
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -69,7 +69,7 @@ telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
