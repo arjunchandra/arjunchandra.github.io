@@ -16,9 +16,9 @@ The lecture was open to the public and streamed live. It was mostly attended by 
 
 Slides are available [here](https://drive.google.com/file/d/1mDaDiMiq1ZTiAsc6An7FeDNO8tWQYjcC/view).
 
-## Who is the lecture for?
+## What does it cover and who is it for?
 
-The lecture attempts to draw a broad and intuitive picture of the field as it stands. The *historical development* of the field is examined, building up to *current frontiers*. One aim of this lecture is to spread awareness of current advances and some of the *key technical challenges* towards `scaling deep RL methods to real world control/sequential decision making problems`. It also aims at inspiring curiosity to tackle these challenges amongst students at University, data scientists, and academic and industry researchers intending to work in the field. A lot is going on to address each one of these challenges. Lecture favours covering enough conceptual ground to being exhaustive.
+The lecture attempts to draw a broad and intuitive picture of the field as it stands. The **historical development** of the field is examined, building up to **current frontiers**. One aim of this lecture is to spread awareness of current advances and some of the **key technical challenges** towards *scaling deep RL methods to real world control/sequential decision making problems*. It also aims at inspiring curiosity to tackle these challenges amongst students at University, data scientists, and academic and industry researchers intending to work in the field. A lot is going on to address each one of these challenges. Lecture favours covering enough conceptual ground to being exhaustive.
 
 As is perhaps obvious, exposing fresh minds to technical challenges is one way to make some of them curious about advancing the field. When these minds get to work, the field invariably matures, so does its applicability. It has indeed been a great pleasure for me to also get to work with some of these minds in the recent past, in part due to supervisory activities at the [Norwegian Open AI Lab](https://www.ntnu.edu/web/ailab/). I hope to keep learning from them in the foreseeable future!
 
