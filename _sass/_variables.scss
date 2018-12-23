@@ -1,7 +1,7 @@
 // Typography
-$base-font-size: 10px !default;
+$base-font-size: 8px !default;
 $bold-font-weight: bold !default;
-$font-family: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
+$font-family: 'PT Serif', Georgia, 'Times New Roman', serif !default;
 $line-height: 2.0 !default;
 $heading-font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif !default;
 $heading-font-weight: 900 !default;
@@ -53,8 +53,8 @@ $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
 
 // Links
-$link-color: $blue;
-$link-hover-color: darken($blue, 40%);
+$link-color: $dark-gray;
+$link-hover-color: darken($dark-gray, 40%);
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
