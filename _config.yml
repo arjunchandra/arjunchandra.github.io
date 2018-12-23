@@ -86,7 +86,7 @@ text:
     newer: 'Recent'
     older: 'Past'
   share_buttons:
-    text:         'Share this post!'
+    text:         'Feel free to share this post!'
     facebook:     'Share on Facebook'
     twitter:      'Share on Twitter'
     googleplus:   'Share on Google+'
