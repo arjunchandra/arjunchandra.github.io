@@ -5,7 +5,8 @@ permalink: /about/
 tags: about
 ---
 
-I am a computer scientist with a background in machine learning and computational intelligence. 
+<img style="float: right; height: 130px; padding-left: 15px;" src="../images/ac.jpg">I am a computer scientist with a background in machine learning, computational intelligence, self-organising multi-agent systems, and the overlapping domain of natural computation. Most of my published research can be found on [Google Scholar](https://scholar.google.no/citations?user=Ldg5lbkAAAAJ&hl=en).
+
 
 ### Academic
 
@@ -21,6 +22,8 @@ My *academic run* was followed by an exciting stint at [Studix](https://www.stud
 
 ### Cigar crunching industrialist
 
-The researcher in me drove me *half way back* to doing AI research at [Telenor Research](https://www.telenor.com/innovation/research/), where I now work as a Senior Research Scientist, with a responsibility of both applying and advancing AI methods. Some of my activities involve working with academic colleagues and students at the [Norwegian Open AI Lab](https://www.ntnu.edu/web/ailab/). On occassion, I do guest lectures on AI topics, specifically **reinforcement learning**, which is the focus of much of my current research. Additionally, I advise a handful of startups based in [Oslo Science Park](https://www.forskningsparken.no/om-oss/about-oslo-science-park/). 
+The researcher in me drove me *half way back* to doing AI research at [Telenor Research](https://www.telenor.com/innovation/research/), where I now work as a Senior Research Scientist, with a responsibility of both applying and advancing AI methods. Some of my activities involve working with academic colleagues and students via the [Norwegian Open AI Lab](https://www.ntnu.edu/web/ailab/). On occassion, I do guest lectures on AI topics, specifically **reinforcement learning**, which is the focus of much of my current research. Additionally, I advise a handful of startups based in [Oslo Science Park](https://www.forskningsparken.no/om-oss/about-oslo-science-park/). 
 
-You can reach me at `<firstname.lastname>@telenor.com`, [twitter](https://twitter.com/boelger), or via [linkedin](https://www.linkedin.com/in/arjun-chandra-6a35b46).
+#### Contact information
+
+You can reach me at `<firstname.lastname>@telenor.com`, [Twitter](https://twitter.com/boelger), or via [LinkedIn](https://www.linkedin.com/in/arjun-chandra-6a35b46).
