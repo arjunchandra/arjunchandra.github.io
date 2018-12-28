@@ -130,3 +130,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+kramdown:
+  parse_block_html: true
