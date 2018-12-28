@@ -16,9 +16,7 @@ The lecture was open to the public and streamed live. It was mostly attended by 
 
 ## What does it cover and who is it for?
 
-The lecture attempts to draw a broad and intuitive picture of the field as it stands. The historical development of the field is examined, building up to current frontiers. One aim of this lecture is to spread awareness of current advances and some of the key technical challenges towards scaling deep RL methods to real world control/sequential decision making problems. 
-
-It also aims at inspiring curiosity to tackle these challenges amongst students at University, data scientists, and academic and industry researchers intending to work in the field. A lot is going on to address each one of these challenges. Lecture favours covering enough conceptual ground to being exhaustive.
+The lecture attempts to draw a broad and intuitive picture of the field as it stands. The historical development of the field is examined, building up to current frontiers. One aim of this lecture is to spread awareness of current advances and some of the key technical challenges towards scaling deep RL methods to real world control/sequential decision making problems. It also aims at inspiring curiosity to tackle these challenges amongst students at University, data scientists, and academic and industry researchers intending to work in the field. A lot is going on to address each one of these challenges. Lecture favours covering enough conceptual ground to being exhaustive.
 
 ## Why another lecture on the topic?
 
