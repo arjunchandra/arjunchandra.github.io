@@ -2,7 +2,7 @@
 layout:     post
 title:      The Talking Drums
 date:       2018-12-29
-summary:    Popular Science Lecture on Information Theory at Litteraturhuset in Sept 2014. A nice memory.
+summary:    Popular Science Lecture on Information Theory at Litteraturhuset in Autumn 2014. A nice memory.
 categories: lecture
 ---
 For a few days in Autumn, an annual science festival called *[Forskningsdagene](https://www.forskningsdagene.no/)* has been taking place in Norway since 1995. Every year, the festival has a new theme. Popular science lectures are some of the things that happen. In 2014, the theme was *[communication](https://forskning.no/blogg/real-library/bli-med-i-jungelen-pa-forskningsdagene)*, and the computer scientist in me got excited. The excitement lead me to doing a lecture on *Information Theory* to an audience of *high school students* at [Litteraturhuset](http://litteraturhuset.no/en/home/). Also in the audience was my *Mother*, which was super cool! The lecture happened on [Sept 19, 2014]((https://www.mn.uio.no/om/aktuelt/arrangementer/andre/realfag-pa-litteraturhuset.html)). 
