@@ -24,7 +24,7 @@ Here are the slides, which follow the story as it is told in the script (videos 
 </div>
 
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); padding-top: 20px; padding-right: 50px; padding-bottom: 20px; padding-left: 50px;">
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding-top: 5px; padding-right: 50px; padding-bottom: 5px; padding-left: 50px;">
 
 ### Drums Can Talk
 
