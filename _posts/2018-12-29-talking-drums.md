@@ -46,7 +46,7 @@ Such *reduction in dimensionality* came at the cost of losing information. A ton
 
 ### Redundancy in Language
 
-Redundancy or wordiness tackles confusion. This is true for all modes of communication, be it spoken, be it through drums, be it digital. A pilot flying an aircraft with a tail ID `DE-RDS` says `Delta Echo Romeo Delta Sierra`, or else the Ds and Es would sound very similar on the noisy radio channel, even on a cellular phone for that matter. When we send an SMS saying `cn i hv a rd`, we could be talking either about a book or transport. The extra letters in `read` or `ride` provide context to someone who may not be part of the full conversation. There are patterns in all languages, beat patterns, grammar, spelling, word frequencies, which help reduce ambiguity in a conveyed message.
+Redundancy or wordiness tackles confusion. This is true for all modes of communication, be it spoken, be it through drums, be it digital. A pilot flying an aircraft with a tail ID `DE-RDS` says `Delta Echo Romeo Delta Sierra`, or else the `D`s and `E`s would sound very similar on the noisy radio channel, even on a cellular phone for that matter. When we send an SMS saying `cn i hv a rd`, we could be talking either about a book or transport. The extra letters in `read` or `ride` provide context to someone who may not be part of the full conversation. There are patterns in all languages, beat patterns, grammar, spelling, word frequencies, which help reduce ambiguity in a conveyed message.
 
 If a message is very redundant, much of it can be guessed. There is some certainty about it. It is not totally random. We can do a little experiment to understand redundancy in language.
 
