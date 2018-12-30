@@ -17,12 +17,11 @@ It focussed on the need for *redundancy* in messages for robust long distance co
 
 Before lecture day, I had also decided to write out the lecture *script* as it were, should the school students were to refer to it again at some point. It was hanging out on my old personal webpage until now. But, I am slowly moving my web presence over here. So, below is the whole thing. Enjoy!
 
-Here are the slides, which follow the story as it is told in the script below.
+Here are the slides (as a video), following the story as it was told.
 
-<div class="resp-container-keynoteml">
-<iframe class="resp-iframe" src="/images/drumroll/index.html" frameborder="0" allow="accelerometer; encrypted-media; gyroscope;" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://www.youtube.com/embed/P3juiiGdUL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); padding-top: 5px; padding-right: 50px; padding-bottom: 5px; padding-left: 50px;">
 
