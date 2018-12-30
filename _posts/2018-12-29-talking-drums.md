@@ -23,7 +23,7 @@ Here are the slides (as a video), following the story as it was told.
 <iframe class="resp-iframe" src="https://www.youtube.com/embed/P3juiiGdUL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); padding-top: 5px; padding-right: 50px; padding-bottom: 5px; padding-left: 50px;">
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding-top: 5px; padding-right: 25px; padding-bottom: 5px; padding-left: 25px;">
 
 ### Drums Can Talk
 
