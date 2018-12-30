@@ -19,8 +19,10 @@ Before lecture day, I had also decided to write out the lecture *script* as it w
 
 Here are the slides, which follow the story as it is told in the script (videos on slides may only work in Safari --- sorry!).
 
-<div class="img_container">
-<iframe width="712" height="400" src="/images/drumroll/index.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <div class="img_container"> -->
+<!-- width="712" height="400" -->
+<div class="resp-container">
+<iframe class="resp-iframe" src="/images/drumroll/index.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
