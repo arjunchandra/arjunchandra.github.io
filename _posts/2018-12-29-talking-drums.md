@@ -20,7 +20,7 @@ Before lecture day, I had also decided to write out the lecture *script* as it w
 Here are the slides, which follow the story as it is told in the script below.
 
 <div class="resp-container-keynoteml">
-<iframe class="resp-iframe" src="/images/drumroll/index.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="resp-iframe" src="/images/drumroll/index.html" frameborder="0" allow="accelerometer; encrypted-media; gyroscope;" allowfullscreen></iframe>
 </div>
 
 
