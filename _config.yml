@@ -3,7 +3,7 @@ title:       Arjun Chandra's Log
 email:       arjun.chandra@gmail.com
 author:      Arjun Chandra
 description: "Arjun Chandra's Log"
-baseurl:     "http://essai.pub"
+baseurl:     ""
 url:         "https://arjunchandra.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
