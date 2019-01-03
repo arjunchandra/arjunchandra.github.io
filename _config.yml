@@ -4,7 +4,7 @@ email:       arjun.chandra@gmail.com
 author:      Arjun Chandra
 description: ""
 baseurl:     ""
-url:         "https://arjunchandra.github.io/"
+url:         "http://essai.pub/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
