@@ -4,7 +4,7 @@ email:       arjun.chandra@gmail.com
 author:      Arjun Chandra
 description: "Arjun Chandra's Log"
 baseurl:     ""
-url:         "http://www.essai.pub/"
+url:         "http://www.talkingdrums.info/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
