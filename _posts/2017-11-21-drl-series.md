@@ -6,7 +6,7 @@ summary:    Series of three lectures at NTNU covering the building blocks, recen
 categories: lecture
 ---
 
-In Autumn 2017, I had the previlige to do a [series of lectures on deep reinforcement learning (deep RL)](https://www.ntnu.edu/web/ailab/dl_tutorial) at [NTNU, Trondheim](https://www.ntnu.edu/). This was open to the public, but mostly attended by students studying AI in some form at NTNU. Covering the basics of RL, recent advances, and challenges that the RL research community deals with, all in just 3 lectures, is an exciting prospect. 
+In Autumn 2017, I had the previlige of doing a [series of lectures on deep reinforcement learning (deep RL)](https://www.ntnu.edu/web/ailab/dl_tutorial) at [NTNU, Trondheim](https://www.ntnu.edu/). This was open to the public, but mostly attended by students studying AI in some form at NTNU. Covering the basics of RL, recent advances, and challenges that the RL research community deals with, all in just 3 lectures, is an exciting prospect. 
 
 <div class="img_container">
 ![]({{site.baseurl}}/images/drl-tutorial2017.png){: width=100%}<br>
