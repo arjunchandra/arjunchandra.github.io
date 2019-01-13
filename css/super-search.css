@@ -27,11 +27,11 @@ MIT Licensed
 	opacity: 0;
 }
 .super-search__close-btn {
-	fill: #000;
-	fill-opacity: .5;
+	fill: #333;
+	fill-opacity: 1.0;
 	position: absolute;
 	right: 15px;
-	top: 20px;
+	top: 25px;
 	z-index: 1;
 }
 
