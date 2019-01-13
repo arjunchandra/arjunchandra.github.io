@@ -4,9 +4,10 @@ MIT Licensed
 */
 .super-search-btn {
 	position: fixed;
-	right: 10px;
-	top: 15px;
+	right: 15px;
+	bottom: 20px;
 	fill: #DDD;
+	fill-opacity: 0.5;
 	text-decoration: none;
 }
 .super-search-btn:hover {
@@ -27,9 +28,10 @@ MIT Licensed
 }
 .super-search__close-btn {
 	fill: #DDD;
+	fill-opacity: 0.2;
 	position: absolute;
-	right: 10px;
-	top: 15px;
+	right: 15px;
+	top: 20px;
 	z-index: 1;
 	text-decoration: none;
 }
