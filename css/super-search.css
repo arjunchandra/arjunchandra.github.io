@@ -16,7 +16,7 @@ MIT Licensed
 
 .super-search {
 	position: fixed;
-	background-color: rgba(179, 179, 179, 0.85);
+	background-color: rgba(251, 251, 251, 0.94);
 	left: 0;
 	right: 0;
 	top: 0;
@@ -66,7 +66,7 @@ MIT Licensed
 .super-search__results > li > a {
 	display: block;
 	position: relative;
-	background-color: #f9f9f9;
+	background-color: #ffffff;
 	color: #333;
 	padding: 17px;
 	margin: 12px 14px;
@@ -77,12 +77,24 @@ MIT Licensed
 .super-search__result-date {
 	color: #7a7a7a;
 	position: relative;
+	font-size: 1rem;
+	font-style: italic;
 	/*padding-left: .5em;*/
 	/*right: 12px;*/
 }
 .super-search__result-date:after {
 	content: "\a ";
 	white-space: pre;
+}
+
+.super-search__result-title {
+	color: #333;
+	position: relative;
+	font-size: 1.85rem;
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+	font-weight: 600;
+	/*padding-left: .5em;*/
+	/*right: 12px;*/
 }
 
 .super-search.is-active {
