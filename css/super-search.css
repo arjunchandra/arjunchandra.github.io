@@ -16,7 +16,7 @@ MIT Licensed
 
 .super-search {
 	position: fixed;
-	background-color: rgba(251, 251, 251, 0.94);
+	background-color: #f08080d6;
 	left: 0;
 	right: 0;
 	top: 0;
@@ -31,7 +31,7 @@ MIT Licensed
 	fill-opacity: 1.0;
 	position: absolute;
 	right: 15px;
-	top: 25px;
+	top: 20px;
 	z-index: 1;
 }
 
@@ -46,7 +46,7 @@ MIT Licensed
 	text-align: center;
 	transform: translateY(-100%);
 	transition: 0.01s ease-out 10ms;
-	background: lightcoral;
+/*	background: lightcoral;*/
 }
 .is-active .super-search__input {
 	transform: translateY(0);
