@@ -46,7 +46,7 @@ MIT Licensed
 	text-align: center;
 	transform: translateY(-100%);
 	transition: 0.01s ease-out 10ms;
-/*	background: lightcoral;*/
+	background: #b0c4de;
 }
 .is-active .super-search__input {
 	transform: translateY(0);
